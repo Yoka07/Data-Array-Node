@@ -1,0 +1,2 @@
+# Data-Array-Node
+The technology of the Data Array Node (DAN) is the integrated data communication method used in the business operations. This application will help the multiple system server based big data migration more systematic, fast and secured. In this technology the application algorithm will find the required data for the searching and store in the array format for the better searching. The advantage is the application can reduce time to search required data in the multiple servers or big data server.
